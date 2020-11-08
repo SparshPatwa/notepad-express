@@ -1,14 +1,15 @@
 {
-  "name": "note-taker",
+  "name": "notepad-express",
   "version": "1.0.0",
-  "description": "",
+  "description": "Note Taker using ExpressJS App",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Sparsh Patwa",
+  "license": "MIT",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "nodemon": "^2.0.6"
   }
 }
