@@ -36,7 +36,7 @@
 This application is covered by the MIT license. 
 
 ## Contributing
-👪 Spars Patwa
+👪 Sparsh Patwa
 
 ## Questions
 ✋ Feel free to reach out with question or comments  
